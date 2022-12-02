@@ -5,7 +5,7 @@ Background:
 Given the movie start
 And the movie title populates
 
-@firstbackground @smoketest
+@firstbackground
 Scenario: This is the first scenario for background
 
 Given he loads url
